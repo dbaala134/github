@@ -1,2 +1,4 @@
-wakeup at 4am
-study and prepare well
+in this file actually it contains a code.
+lets say hello world code
+if there is a bug developers edit the file and a new commit gets created
+after developer edits we need to upodate it by git push or pull actions
